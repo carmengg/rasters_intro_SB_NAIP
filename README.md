@@ -1,5 +1,7 @@
 # INTRO TO RASTERS!
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carmengg/rasters_intro_SB_NAIP/main?labpath=full_raster_notebook.ipynb)
+
 In this notebook we will learn to do a some basic raster manipulation:
 
 1. Open rasters and look at some of their basic information
