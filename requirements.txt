@@ -1,0 +1,6 @@
+xarray==0.20.2
+numpy==1.20.0
+geopandas==0.10.2
+rasterio==1.2.10
+matplotlib==3.5.1
+rioxarray==0.9.1
