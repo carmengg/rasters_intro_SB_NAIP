@@ -7,10 +7,10 @@ To run the notebook just click on the Binder link below, no need to install anyt
 In this notebook we will learn to do a some basic raster manipulation:
 
 1. Open rasters and look at some of their basic information
-2. Open a GEOJSON file and look at some of its basic info
+2. Open a shapefile and look at some of its basic info
 3. Clip rasters using the shapefile
 4. Compute Normalized Difference Vegetation Index (NDVI)
-5. Save our NDVI raster
+5. Save our NDVI raster as a .tif file
 
 
 ## REFERENCES:
