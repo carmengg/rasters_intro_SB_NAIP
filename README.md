@@ -24,4 +24,4 @@ To learn more about how these images were collected, check out this short video:
 Some of the content in this project is based on the workshop *Introduction to Geospatial Raster and Vector Data with Python* from the [The Carpentries Incubator](https://carpentries-incubator.github.io/geospatial-python/). This is a great resource to go deeper into working with geospatial data with Python!
 
 ### NDVI IN R
-Some of the users running this notebook might be more familiar with the R programming language. In this repo [here](https://carmengg.github.io/my_coding_website/posts/2021-05-28-mexico-rasters/) you can see an example of doing a similar workflow in R. The repository for this project is available here https://github.com/carmengg/mexico_rasters.
+Some of the users running this notebook might be more familiar with the R programming language. [Here](https://carmengg.github.io/my_coding_website/posts/2021-05-28-mexico-rasters/) you can see an example of doing a similar workflow in R. The repository for this project is available here https://github.com/carmengg/mexico_rasters.
